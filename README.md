@@ -3,6 +3,8 @@ A collection of unofficial themes/stylesheets for [Shaarli](https://github.com/s
 
 This repository is a **currently UNMAINTAINED**. Themes may cause compatibility issues.  [Read the themes wiki](https://github.com/shaarli/shaarli-themes/wiki), and use at your own risk**. A full [rewrite of Shaarli's template and CSS](https://github.com/shaarli/Shaarli/issues/266) is being discussed.
 
+More themes can be found at https://github.com/virtualtam/shaarli-themes-virtualtam
+
 ## Usage
 
 Download the theme's CSS file and save it as `inc/user.css` in your Shaarli directory.
